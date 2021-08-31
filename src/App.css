@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+/*////////////////////////////////////////////////*/
+
+.info-div{
+  background-color: aqua;
+  font-weight: 300;
+
+}
+
+.info-div h2{
+color: white;
+
+}
+.info-div p{
+  color: white;
+  size: 16px;
+  }
